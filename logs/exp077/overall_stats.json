@@ -1,0 +1,12 @@
+{
+    "Total_statements": 160,
+    "Accuracy": 0.80625,
+    "Easy_acc": 0.8666666666666667,
+    "Hard_acc": 0.6909090909090909,
+    "Viewdep_acc": 0.7551020408163265,
+    "View_indep_acc": 0.8288288288288288,
+    "Num_easy": 105,
+    "Num_hard": 55,
+    "Num_VD": 49,
+    "Num_VI": 111
+}
